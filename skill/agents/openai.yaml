@@ -1,0 +1,4 @@
+interface:
+  display_name: "Issue-to-Spec Compiler"
+  short_description: "Transform a verified issue into an implementation contract with acceptance criteria, exclusions"
+  default_prompt: "Use @issue-to-spec-compiler on my authorized input and return a validated result."
